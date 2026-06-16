@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Scaling AI literacy and engineering interactive AI exhibits <br>👯 I’m looking to collaborate on: Open-source Generative AI or EdTech projects that focus on human-centered design and social impact.<br>🤝 I’m looking for help with: Mastering LLM orchestration and optimizing deep learning models for deployment on edge devices.<br>🌱 I’m currently learning: Advanced NLP architectures and the technical frameworks for building autonomous AI agents.<br>💬 Ask me about: Building 12+ production-grade AI apps, AI consulting strategy. <br>⚡ Fun fact: I’ve managed international exchange teams for AIESEC and built game engines for 300+ daily users.
+🔭 I’m currently working on: Scaling AI literacy and engineering interactive AI exhibits <br>👯 I’m looking to collaborate on: Open-source Generative AI or EdTech projects that focus on human-centered design and social impact.<br>🤝 I’m looking for help with: Mastering LLM orchestration and optimizing deep learning models for deployment on edge devices.<br>🌱 I’m currently learning: Advanced NLP architectures and the technical frameworks for building autonomous AI agents.<br>💬 Ask me about: Building 15+ production-grade AI apps, AI consulting strategy. <br>⚡ Fun fact: I’ve managed international exchange teams for AIESEC and built game engines for 300+ daily users.
 
 
 ## 🌐 Socials:

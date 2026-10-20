@@ -11,9 +11,7 @@ My background is engineering. These days most of my work sits upstream of the co
 - Moving models closer to the user: small models, quantization, and on-device inference for low-connectivity settings
 - Designing AI experiences that work for first-time users, not just for developers
 
-I'm drawn to open-source work at the intersection of generative AI, education, and social impact. If you're building in that space, I'd like to hear about it.
-
-
+I'm drawn to open-source work and would love to contribute and collaborate in any idea that has the potential to make some lives better
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaif-qureshi-989b1b246/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaifq125@gmail.com) 
 

@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on: Scaling AI literacy and engineering interactive AI exhibits <br>👯 I’m looking to collaborate on: Open-source Generative AI or EdTech projects that focus on human-centered design and social impact.<br>🤝 I’m looking for help with: Mastering LLM orchestration and optimizing deep learning models for deployment on edge devices.<br>🌱 I’m currently learning: Advanced NLP architectures and the technical frameworks for building autonomous AI agents.<br>💬 Ask me about: Building 15+ production-grade AI apps, AI consulting strategy. <br>⚡ Fun fact: I’ve managed international exchange teams for AIESEC and built game engines for 300+ daily users.
+### About
+
+I work where AI meets education: shaping how people learn *about* AI, and how they learn *with* it.
+
+My background is engineering. These days most of my work sits upstream of the code: AI strategy, curriculum design, and turning fast-moving research into something a classroom, a CSR program, or an exhibit floor can actually use. I still build web apps, internal tools, and interactive AI exhibits, usually because building is the quickest way to find out whether an idea survives contact with real users.
+
+**What I'm thinking about lately**
+
+- Agentic systems: tool use, multi-step orchestration, evaluation, and deciding where autonomy should stop
+- AI literacy at scale, and the gap between what people need to understand and what we usually teach them
+- Moving models closer to the user: small models, quantization, and on-device inference for low-connectivity settings
+- Designing AI experiences that work for first-time users, not just for developers
+
+I'm drawn to open-source work at the intersection of generative AI, education, and social impact. If you're building in that space, I'd like to hear about it.
 
 
 ## 🌐 Socials:
